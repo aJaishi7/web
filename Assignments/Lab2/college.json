@@ -1,0 +1,10 @@
+{
+    "collegeName": "Softwarica College of IT and E-Commerce",
+    "address": "Dillibazar Kathmandu",
+    "contactNo": "01-1234566",
+    "courseOffered": {
+        "course1": "Bsc Hons Ethical Hacking & Cyber Security",
+        "course2": "Bsc Hons Computing"
+    },
+    "hasVacencies": "No"
+}
